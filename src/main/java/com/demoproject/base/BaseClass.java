@@ -42,7 +42,7 @@ public class BaseClass {
 		prop.load(fis);
 		logger.info("Config.properties file loaded");
 
-		// Start the Extent report
+		// Start the Extent report test
 		// ExtentManager.getReporter(); --> This has been implemented in TestListener
 	}
 
